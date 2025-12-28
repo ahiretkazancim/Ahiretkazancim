@@ -50,7 +50,7 @@ Projelerimiz hakkında bilgi almak, gönüllü olmak veya bağış yapmak için 
 | Platform | Adres |
 | :--- | :--- |
 | 🌐 **Web** | [ahiretkazancim.com](https://ahiretkazancim.com) |
-| 📧 **E-posta** | info@ahiretkazancim.org |
+| 📧 **E-posta** | info@ahiretkazancim.com |
 | 📱 **Telefon** | +90 546 143 44 45 |
 | 📍 **Adres** | İskenderpaşa, Yeşil Tekke Kuyulu Sk. No:24 D:1, 34080 Fatih/İstanbul/Türkiye |
 
