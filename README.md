@@ -2,7 +2,7 @@
 
 ### "İyilikte Yarışanlar İçin Bir Köprü"
 
-[![Website](https://img.shields.io/website?label=ahiretkazancim.com&style=for-the-badge&url=https%3A%2F%2Fahiretkazancim.com)](https://ahiretkazancim.com)
+[![Web Sitesi](https://img.shields.io/badge/Web_Sitesi-Ziyaret_Et-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahiretkazancim.com)
 [![Bağış Yap](https://img.shields.io/badge/Online-Bağış-c0392b?style=for-the-badge&logo=heart)](https://ahiretkazancim.com/bagislar)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-İletişim-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/905461434445)
 
