@@ -2,9 +2,9 @@
 
 ### "İyilikte Yarışanlar İçin Bir Köprü"
 
-[![Website](https://img.shields.io/website?label=ahiretkazancim.org&style=for-the-badge&url=https%3A%2F%2Fahiretkazancim.org)](https://ahiretkazancim.org)
-[![Bağış Yap](https://img.shields.io/badge/Online-Bağış-c0392b?style=for-the-badge&logo=heart)](https://ahiretkazancim.org/bagis)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-İletişim-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/90xxxxxxxxxx)
+[![Website](https://img.shields.io/website?label=ahiretkazancim.com&style=for-the-badge&url=https%3A%2F%2Fahiretkazancim.com)](https://ahiretkazancim.com)
+[![Bağış Yap](https://img.shields.io/badge/Online-Bağış-c0392b?style=for-the-badge&logo=heart)](https://ahiretkazancim.com/bagislar)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-İletişim-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/905461434445)
 
 ---
 
@@ -49,10 +49,10 @@ Projelerimiz hakkında bilgi almak, gönüllü olmak veya bağış yapmak için 
 
 | Platform | Adres |
 | :--- | :--- |
-| 🌐 **Web** | [ahiretkazancim.org](https://ahiretkazancim.org) |
+| 🌐 **Web** | [ahiretkazancim.com](https://ahiretkazancim.com) |
 | 📧 **E-posta** | info@ahiretkazancim.org |
-| 📱 **Telefon** | +90 000 000 00 00 |
-| 📍 **Adres** | Fatih, İstanbul, Türkiye |
+| 📱 **Telefon** | +90 546 143 44 45 |
+| 📍 **Adres** | İskenderpaşa, Yeşil Tekke Kuyulu Sk. No:24 D:1, 34080 Fatih/İstanbul/Türkiye |
 
 ---
 *Bu hesap Ahiret Kazancım Derneği'nin resmi GitHub profilidir.*
